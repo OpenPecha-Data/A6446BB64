@@ -1,0 +1,58 @@
+segment_sources:
+  P1EF0E920:
+    type: origin_type
+    relation: translation
+    language: en
+  PC606A64A:
+    type: origin_type
+    relation: translation
+    language: de
+  P5D123282:
+    type: origin_type
+    relation: translation
+    language: fr
+  P92C2E499:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9473b4cf44b048bfa75a1bb7e5ba1327:
+    P1EF0E920: 30a04798785146148a23ac50b696b4fc
+    PC606A64A: 3262ef24f6eb413cba239eb56c75af00
+    P5D123282: 6bb250c96d3741278e5a10479b711c30
+    P92C2E499: f4d2ace7a1404bdd859fc7470c8f8f99
+  253632d3eff14ca5ac3cb055cfdf3981:
+    P1EF0E920: 0e70ac00cbb04531aaf66423cabfbcb1
+    PC606A64A: 036ed36cfe3947d4be5ad7824918fd20
+    P5D123282: e33740a70e7240b1addea7afb5cff1a7
+    P92C2E499: 8a423711451b45b5bcd524bb550e7487
+  bf96c4e3e7b547d6876d79e73a277791:
+    P1EF0E920: a0f2638e22b04b94b380a0a7f68bf625
+    PC606A64A: b4076a043470415fbead7df08db8f142
+    P5D123282: ff9e4d24397045f694a6c5c5e794ca3e
+    P92C2E499: c149b25868854c7d91823e7190aefac6
+  c9e6c0c1814643d4ad4b900bc8f752cf:
+    P1EF0E920: 9370f822d8af47499adfaca04c465acd
+    PC606A64A: 9bca5075c8b945d988d5ca5af5cfa28b
+    P5D123282: 4569f10bf0914232a15177d60eba1500
+    P92C2E499: c2e210423195444d9d622e0a80952cdb
+  3b28de18eb264dc0acf88cef6990bcc3:
+    P1EF0E920: fecca5f6cf4f4c44a0e590dabfb691b7
+    PC606A64A: 0edc5e9a64df4c1bad44f0a3f3380fad
+    P5D123282: b15db5470ab44d5bab310eac55601df6
+    P92C2E499: 4907c1b876a54aa9aab40b9d8e5ed1d9
+  d341f12543cb4433a9a7ec2dcb823dec:
+    P1EF0E920: 6356acac7011467ca82446bcdee8efd2
+    PC606A64A: 5be599168a484937b3dec4593cd55827
+    P5D123282: e00c67eea2a4459bab58217cf18bccb2
+    P92C2E499: b953b14f75974eb7870187e9cd17bd90
+  5fbaa56ef5334cb2ae03f20522fe61ef:
+    P1EF0E920: 6193c455121f44a9b03d5d25322c982e
+    PC606A64A: 021efa7f434a494fafebc9fdc8269175
+    P5D123282: 83e23234ae8f4c6a832179a4fc6c09da
+    P92C2E499: 1390c186258a4154b817b8546c3193d8
+  e39fba55beef4d35ae327a063ba7b81a:
+    P1EF0E920: cdf120689acf49ad9f9c10dbe2b58d7d
+    PC606A64A: 93f4865a64934b2b8a09fd2b58c381ff
+    P5D123282: 2081c42f2633474db211e2d61b495391
+    P92C2E499: 9b4f5792f60d412da6f7e4bc3b5afad5
